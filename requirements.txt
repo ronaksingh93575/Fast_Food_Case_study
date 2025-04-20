@@ -1,0 +1,9 @@
+Library | Recommended Version | Install Command
+pandas | >=1.3.0 | pip install pandas==1.5.3
+scikit-learn | >=1.0.0 | pip install scikit-learn==1.2.2
+numpy | >=1.21.0 | pip install numpy==1.23.5
+matplotlib | >=3.5.0 | pip install matplotlib==3.7.1
+seaborn (optional, for visuals) | >=0.11.2 | pip install seaborn==0.12.2
+
+install by using command in terminal
+         pip install pandas==1.5.3 scikit-learn==1.2.2 numpy==1.23.5 matplotlib==3.7.1 seaborn==0.12.2
